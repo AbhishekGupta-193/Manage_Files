@@ -1,0 +1,11 @@
+REQUIREMENT :
+
+Basically I wanted to shift my files from one folder to another folder .
+The constraint is that i can have any number of files and also i have to rename the 
+files as well before moving to the new folder .
+The New Names of the files correspoding to the old names are mentioned in an 
+excel sheet.
+
+In this case i have created an "old" folder and a "new" folder in my desktop folder .
+Also my "file_names" excel sheet is also availble in the desktop folder .
+For this i have programmed and correspoding files paths names is beacuse of this only.
